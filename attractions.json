@@ -1,0 +1,1550 @@
+{
+  "data": [
+    {
+      "location_id": "8558305",
+      "name": "FIU Nature Preserve",
+      "latitude": "25.7566",
+      "longitude": "-80.37608",
+      "num_reviews": "4",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/c0/d5/9e/fiu-nature-preserve.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/c0/d5/9e/fiu-nature-preserve.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/c0/d5/9e/fiu-nature-preserve.jpg",
+            "height": "1500"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/c0/d5/9e/fiu-nature-preserve.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/c0/d5/9e/fiu-nature-preserve.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": false,
+        "uploaded_date": "2015-08-26T02:40:46-0400",
+        "caption": "Wetland Habitat",
+        "id": "146855326",
+        "helpful_votes": "0",
+        "published_date": "2015-09-04T05:51:11-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "location_subtype": "none",
+      "doubleclick_zone": "na.us.fl.miami",
+      "preferred_map_engine": "default",
+      "raw_ranking": "2.789642095565796",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "146",
+      "ranking_denominator": "378",
+      "ranking_category": "attraction",
+      "ranking_subcategory": "#146 of 378 things to do in Miami",
+      "subcategory_ranking": "#146 of 378 things to do in Miami",
+      "ranking": "#146 of 378 things to do in Miami",
+      "distance": "0.16312411362232238",
+      "distance_string": "0.2 mi",
+      "bearing": "north",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "The FIU Nature Preserve is an 11-acre environmental education facility, representing the Florida Everglades. It is used to share ecological knowledge gained by university researchers with FIU students and the community.",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g34438-d8558305-Reviews-FIU_Nature_Preserve-Miami_Florida.html",
+      "write_review": "https://www.tripadvisor.com/UserReview-g34438-d8558305-FIU_Nature_Preserve-Miami_Florida.html",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "key": "57",
+          "name": "Nature & Parks"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "reviews": [
+        {
+          "id": "301776956",
+          "lang": null,
+          "location_id": "0",
+          "published_date": "2023-04-18T23:14:07-04:00",
+          "published_platform": "Desktop",
+          "rating": "5",
+          "type": "review",
+          "helpful_votes": "0",
+          "url": "https://www.tripadvisor.com/ShowUserReviews?src=301776956#review301776956",
+          "travel_date": null,
+          "text": null,
+          "user": null,
+          "title": "A Hidden Gem",
+          "owner_response": null,
+          "subratings": [],
+          "machine_translated": false,
+          "machine_translatable": false
+        }
+      ],
+      "phone": "+1 305-348-3717",
+      "website": "http://gogreen.fiu.edu/topics/the-nature-preserve/index.html",
+      "address_obj": {
+        "street1": "11200 SW 8th St",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33199-2516"
+      },
+      "address": "11200 SW 8th St, Miami, FL 33199-2516",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "68",
+          "name": "Nature & Wildlife Areas"
+        }
+      ],
+      "animal_welfare_tag": {
+        "tag_text": "Features Animals",
+        "msg_header": "This attraction features animals",
+        "msg_body": "Click below for expert advice on animal welfare in tourism.",
+        "learn_more_text": "Learn more",
+        "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+      },
+      "tags": {
+        "animal_welfare_tag": {
+          "tag_text": "Features Animals",
+          "msg_header": "This attraction features animals",
+          "msg_body": "Click below for expert advice on animal welfare in tourism.",
+          "learn_more_text": "Learn more",
+          "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+        }
+      }
+    },
+    {
+      "location_id": "7598156",
+      "name": "Patricia & Phillip Frost Art Museum",
+      "latitude": "25.753633",
+      "longitude": "-80.37302",
+      "num_reviews": "45",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/54/96/8c/frost-art-museum.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/54/96/8c/frost-art-museum.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/54/96/8c/frost-art-museum.jpg",
+            "height": "854"
+          },
+          "large": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-w/1d/54/96/8c/frost-art-museum.jpg",
+            "height": "683"
+          },
+          "medium": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/54/96/8c/frost-art-museum.jpg",
+            "height": "367"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-07-14T12:33:41-0400",
+        "caption": "Frost Art Museum",
+        "id": "492082828",
+        "helpful_votes": "0",
+        "published_date": "2021-07-14T12:33:41-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "location_subtype": "none",
+      "doubleclick_zone": "na.us.fl.miami",
+      "preferred_map_engine": "default",
+      "raw_ranking": "3.046224355697632",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "61",
+      "ranking_denominator": "378",
+      "ranking_category": "attraction",
+      "ranking_subcategory": "#61 of 378 things to do in Miami",
+      "subcategory_ranking": "#61 of 378 things to do in Miami",
+      "ranking": "#61 of 378 things to do in Miami",
+      "distance": "0.21446986380380056",
+      "distance_string": "0.2 mi",
+      "bearing": "east",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Closed Now",
+      "is_long_closed": false,
+      "description": "The Patricia & Phillip Frost Art Museum's mission is to provide transformative experiences through art; collect, exhibit, and interpret art across cultures; and advance FIU\u2019s stature as a top tier research university.",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g34438-d7598156-Reviews-Patricia_Phillip_Frost_Art_Museum-Miami_Florida.html",
+      "write_review": "https://www.tripadvisor.com/UserReview-g34438-d7598156-Patricia_Phillip_Frost_Art_Museum-Miami_Florida.html",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "key": "49",
+          "name": "Museums"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "reviews": [
+        {
+          "id": "763605758",
+          "lang": null,
+          "location_id": "0",
+          "published_date": "2023-04-18T23:14:07-04:00",
+          "published_platform": "Desktop",
+          "rating": "5",
+          "type": "review",
+          "helpful_votes": "0",
+          "url": "https://www.tripadvisor.com/ShowUserReviews?src=763605758#review763605758",
+          "travel_date": null,
+          "text": null,
+          "user": null,
+          "title": "Impressed !",
+          "owner_response": null,
+          "subratings": [],
+          "machine_translated": false,
+          "machine_translatable": false
+        }
+      ],
+      "phone": "+1 305-348-2890",
+      "website": "http://frost.fiu.edu",
+      "email": "artinfo@fiu.edu",
+      "address_obj": {
+        "street1": "10975 SW 17th ST",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33199-0001"
+      },
+      "address": "10975 SW 17th ST, Miami, FL 33199-0001",
+      "hours": {
+        "week_ranges": [
+          [
+            {
+              "open_time": 660,
+              "close_time": 1020
+            }
+          ],
+          [],
+          [
+            {
+              "open_time": 660,
+              "close_time": 1020
+            }
+          ],
+          [
+            {
+              "open_time": 660,
+              "close_time": 1020
+            }
+          ],
+          [
+            {
+              "open_time": 660,
+              "close_time": 1020
+            }
+          ],
+          [
+            {
+              "open_time": 660,
+              "close_time": 1020
+            }
+          ],
+          [
+            {
+              "open_time": 660,
+              "close_time": 1020
+            }
+          ]
+        ],
+        "timezone": "America/New_York"
+      },
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "28",
+          "name": "Art Museums"
+        }
+      ],
+      "booking": {
+        "provider": "Viator",
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMiami%2FLuxury-Miami-City-Tours-at-Affordable-Prices%2Fd662-66227P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f38b8133bf64ff3b0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=7598156&clt=TM&from=api&nt=true"
+      },
+      "offer_group": {
+        "lowest_price": "$6.50",
+        "offer_list": [
+          {
+            "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMiami%2FLuxury-Miami-City-Tours-at-Affordable-Prices%2Fd662-66227P1%3Feap%3Dmobile-app-11383%26aid%3Dtripenandr&partnerKey=1&urlKey=f38b8133bf64ff3b0&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=7598156&clt=TM&from=api&nt=true",
+            "price": "$650.00",
+            "rounded_up_price": "$650",
+            "offer_type": "",
+            "title": "Luxury Miami City Tours at Affordable Prices",
+            "product_code": "66227P1",
+            "partner": "Viator",
+            "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/2e/75.jpg",
+            "description": null,
+            "primary_category": "Cultural Tours"
+          }
+        ],
+        "has_see_all_url": true,
+        "is_eligible_for_ap_list": false
+      }
+    },
+    {
+      "location_id": "8559619",
+      "name": "Tamiami Park",
+      "latitude": "25.74662",
+      "longitude": "-80.37735",
+      "num_reviews": "11",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/c2/87/f2/tamiami-park.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/c2/87/f2/tamiami-park.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/c2/87/f2/tamiami-park.jpg",
+            "height": "1500"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/c2/87/f2/tamiami-park.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/c2/87/f2/tamiami-park.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2015-08-26T15:09:34-0400",
+        "caption": "Entrance Sign",
+        "id": "146966514",
+        "helpful_votes": "0",
+        "published_date": "2015-08-26T15:09:34-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "location_subtype": "none",
+      "doubleclick_zone": "na.us.fl.miami",
+      "preferred_map_engine": "default",
+      "raw_ranking": "2.8450870513916016",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "109",
+      "ranking_denominator": "378",
+      "ranking_category": "attraction",
+      "ranking_subcategory": "#109 of 378 things to do in Miami",
+      "subcategory_ranking": "#109 of 378 things to do in Miami",
+      "ranking": "#109 of 378 things to do in Miami",
+      "distance": "0.5316395947291064",
+      "distance_string": "0.5 mi",
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "Tamiami Park is a 247-acre public park located just south of Florida International University in Westchester. With its many fields and courts, the park is great for sports lovers.",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g34438-d8559619-Reviews-Tamiami_Park-Miami_Florida.html",
+      "write_review": "https://www.tripadvisor.com/UserReview-g34438-d8559619-Tamiami_Park-Miami_Florida.html",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "key": "56",
+          "name": "Fun & Games"
+        },
+        {
+          "key": "57",
+          "name": "Nature & Parks"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "reviews": [
+        {
+          "id": "658894148",
+          "lang": null,
+          "location_id": "0",
+          "published_date": "2023-04-18T23:14:07-04:00",
+          "published_platform": "Desktop",
+          "rating": "5",
+          "type": "review",
+          "helpful_votes": "0",
+          "url": "https://www.tripadvisor.com/ShowUserReviews?src=658894148#review658894148",
+          "travel_date": null,
+          "text": null,
+          "user": null,
+          "title": "oh yeah",
+          "owner_response": null,
+          "subratings": [],
+          "machine_translated": false,
+          "machine_translatable": false
+        }
+      ],
+      "phone": "+1 786-315-5295",
+      "website": "http://www.miamidade.gov/parks/tamiami.asp",
+      "address_obj": {
+        "street1": "11201 SW 24th St",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33165-2229"
+      },
+      "address": "11201 SW 24th St, Miami, FL 33165-2229",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "70",
+          "name": "Parks"
+        },
+        {
+          "key": "131",
+          "name": "Sports Complexes"
+        }
+      ]
+    },
+    {
+      "location_id": "0",
+      "name": "New Wave Billiards & Sports Bar",
+      "latitude": "25.75594",
+      "longitude": "-80.36805",
+      "num_reviews": "1170",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/45/8e/6e/new-wave-billiards-miami.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/45/8e/6e/new-wave-billiards-miami.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/45/8e/6e/new-wave-billiards-miami.jpg",
+            "height": "853"
+          },
+          "large": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-w/1b/45/8e/6e/new-wave-billiards-miami.jpg",
+            "height": "683"
+          },
+          "medium": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/45/8e/6e/new-wave-billiards-miami.jpg",
+            "height": "367"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2020-04-19T18:15:35-0400",
+        "caption": "New Wave Billiards, Miami, Florida",
+        "id": "457543278",
+        "helpful_votes": "0",
+        "published_date": "2020-04-19T18:15:35-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "doubleclick_zone": "na.us.fl.miami",
+      "distance": "0.5323788457522429",
+      "distance_string": null,
+      "rating": "4.0",
+      "bearing": "east",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "Mixed drinks & pub grub served in a spacious hangout with 29 pool tables & a smoking lounge.",
+      "web_url": "https://www.tripadvisor.com/Attractions",
+      "write_review": "https://www.tripadvisor.com",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "rollup",
+        "name": "Rollup"
+      },
+      "subcategory": [
+        {
+          "key": "20",
+          "name": "Nightlife"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "address_obj": {
+        "street1": "1403 SW 107th Ave",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33174-2527"
+      },
+      "address": "",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "99",
+          "name": "Bars & Clubs"
+        }
+      ],
+      "rollup_category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "rollup_contains_bookable": true,
+      "booking": {
+        "provider": "Viator",
+        "url": "https://www.tripadvisor.com"
+      },
+      "offer_group": {
+        "lowest_price": "$6.75",
+        "has_see_all_url": true,
+        "is_eligible_for_ap_list": false
+      },
+      "rollup_count": 40
+    },
+    {
+      "location_id": "0",
+      "name": "I Am Moor Spa",
+      "latitude": "25.752806",
+      "longitude": "-80.36699",
+      "num_reviews": "418",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/75/65/fc/getlstd-property-photo.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/75/65/fc/getlstd-property-photo.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1575",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/75/65/fc/getlstd-property-photo.jpg",
+            "height": "1575"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-p/0f/75/65/fc/getlstd-property-photo.jpg",
+            "height": "550"
+          },
+          "medium": {
+            "width": "450",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/75/65/fc/getlstd-property-photo.jpg",
+            "height": "450"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2017-06-02T15:17:02-0400",
+        "caption": "getlstd_property_photo",
+        "id": "259352060",
+        "helpful_votes": "0",
+        "published_date": "2017-06-02T15:17:02-0400",
+        "user": null
+      },
+      "awards": [],
+      "doubleclick_zone": "na.us.fl.miami",
+      "distance": "0.594125677134197",
+      "distance_string": null,
+      "bearing": "east",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "We specialize in retail and wholesale beauty products, facial and body treatments, and organic sunless tanning.",
+      "web_url": "https://www.tripadvisor.com/Attractions",
+      "write_review": "https://www.tripadvisor.com",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "rollup",
+        "name": "Rollup"
+      },
+      "subcategory": [
+        {
+          "key": "40",
+          "name": "Spas & Wellness"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "address_obj": {
+        "street1": "1667 Sw 107th Ave",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33165-7344"
+      },
+      "address": "",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "127",
+          "name": "Spas"
+        }
+      ],
+      "rollup_category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "rollup_contains_bookable": true,
+      "booking": {
+        "provider": "Viator",
+        "url": "https://www.tripadvisor.com"
+      },
+      "offer_group": {
+        "lowest_price": "$42.00",
+        "has_see_all_url": true,
+        "is_eligible_for_ap_list": false
+      },
+      "rollup_count": 113
+    },
+    {
+      "location_id": "0",
+      "name": "The Great Escape Room Miami",
+      "latitude": "25.74636",
+      "longitude": "-80.36854",
+      "num_reviews": "93",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/9c/10/33/20160806-132028-largejpg.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/9c/10/33/20160806-132028-largejpg.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1032",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/9c/10/33/20160806-132028-largejpg.jpg",
+            "height": "774"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/9c/10/33/20160806-132028-largejpg.jpg",
+            "height": "412"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/9c/10/33/20160806-132028-largejpg.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": false,
+        "uploaded_date": "2016-08-20T08:28:47-0400",
+        "caption": "",
+        "id": "211554355",
+        "helpful_votes": "0",
+        "published_date": "2016-08-20T08:28:47-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "doubleclick_zone": "na.us.fl.miami",
+      "distance": "0.7331831962656613",
+      "distance_string": null,
+      "bearing": "southeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "Locked in a room with one way out, you must search for hidden compartments, secret passageways, and clues to plot your Great Escape",
+      "web_url": "https://www.tripadvisor.com/Attractions",
+      "write_review": "https://www.tripadvisor.com",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "rollup",
+        "name": "Rollup"
+      },
+      "subcategory": [
+        {
+          "key": "56",
+          "name": "Fun & Games"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "address_obj": {
+        "street1": "10742 SW 24th St",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33165-2456"
+      },
+      "address": "",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "208",
+          "name": "Room Escape Games"
+        }
+      ],
+      "rollup_category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "rollup_contains_bookable": false,
+      "rollup_count": 4
+    },
+    {
+      "location_id": "8280743",
+      "name": "Ronselli Park",
+      "latitude": "25.76599",
+      "longitude": "-80.38186",
+      "num_reviews": "2",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/37/0c/fc/ronselli-park.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/37/0c/fc/ronselli-park.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/37/0c/fc/ronselli-park.jpg",
+            "height": "1500"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/37/0c/fc/ronselli-park.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/37/0c/fc/ronselli-park.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": false,
+        "uploaded_date": "2015-06-28T11:29:12-0400",
+        "caption": "Playground",
+        "id": "137825532",
+        "helpful_votes": "2",
+        "published_date": "2015-06-28T11:29:12-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "location_subtype": "none",
+      "doubleclick_zone": "na.us.fl.miami",
+      "preferred_map_engine": "default",
+      "raw_ranking": "2.7433600425720215",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "230",
+      "ranking_denominator": "378",
+      "ranking_category": "attraction",
+      "ranking_subcategory": "#230 of 378 things to do in Miami",
+      "subcategory_ranking": "#230 of 378 things to do in Miami",
+      "ranking": "#230 of 378 things to do in Miami",
+      "distance": "0.8801609412193306",
+      "distance_string": "0.9 mi",
+      "bearing": "northwest",
+      "rating": "3.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "Ronselli Park is located just adjacent to the Jorge Mas Canosa Youth Center. The playground is small, but is covered by a large tent like structure so the equipment is not burning in the sun, and provides cover from rain.",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g34438-d8280743-Reviews-Ronselli_Park-Miami_Florida.html",
+      "write_review": "https://www.tripadvisor.com/UserReview-g34438-d8280743-Ronselli_Park-Miami_Florida.html",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "key": "56",
+          "name": "Fun & Games"
+        },
+        {
+          "key": "57",
+          "name": "Nature & Parks"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "reviews": [
+        {
+          "id": "665959317",
+          "lang": null,
+          "location_id": "0",
+          "published_date": "2023-04-18T23:14:07-04:00",
+          "published_platform": "Desktop",
+          "rating": "4",
+          "type": "review",
+          "helpful_votes": "0",
+          "url": "https://www.tripadvisor.com/ShowUserReviews?src=665959317#review665959317",
+          "travel_date": null,
+          "text": null,
+          "user": null,
+          "title": "Baby Shower",
+          "owner_response": null,
+          "subratings": [],
+          "machine_translated": false,
+          "machine_translatable": false
+        }
+      ],
+      "website": "http://www.cityofsweetwater.fl.gov/parks.htm",
+      "address_obj": {
+        "street1": "250 SW 114th Ave",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33174-1014"
+      },
+      "address": "250 SW 114th Ave, Miami, FL 33174-1014",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "70",
+          "name": "Parks"
+        },
+        {
+          "key": "45",
+          "name": "Playgrounds"
+        }
+      ]
+    },
+    {
+      "location_id": "592108",
+      "name": "Martin Z. Margulies Sculpture Park",
+      "latitude": "25.768232",
+      "longitude": "-80.36916",
+      "num_reviews": "2",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/c9/63/c6/martin-z-margulies-sculpture.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/c9/63/c6/martin-z-margulies-sculpture.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "480",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/63/c6/martin-z-margulies-sculpture.jpg",
+            "height": "640"
+          },
+          "large": {
+            "width": "480",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/c9/63/c6/martin-z-margulies-sculpture.jpg",
+            "height": "640"
+          },
+          "medium": {
+            "width": "337",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/c9/63/c6/martin-z-margulies-sculpture.jpg",
+            "height": "450"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2011-03-14T01:31:55-0400",
+        "caption": "vishnu stone statue",
+        "id": "29975494",
+        "helpful_votes": "1",
+        "published_date": "2011-03-16T22:59:42-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "location_subtype": "none",
+      "doubleclick_zone": "na.us.fl.miami",
+      "preferred_map_engine": "default",
+      "raw_ranking": "2.7556302547454834",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "196",
+      "ranking_denominator": "378",
+      "ranking_category": "attraction",
+      "ranking_subcategory": "#196 of 378 things to do in Miami",
+      "subcategory_ranking": "#196 of 378 things to do in Miami",
+      "ranking": "#196 of 378 things to do in Miami",
+      "distance": "1.0663120422427146",
+      "distance_string": "1.1 mi",
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "Contemporary & vintage photography, video & sculpture displayed in a huge converted-warehouse space.",
+      "web_url": "https://www.tripadvisor.com/Attraction_Review-g34438-d592108-Reviews-Martin_Z_Margulies_Sculpture_Park-Miami_Florida.html",
+      "write_review": "https://www.tripadvisor.com/UserReview-g34438-d592108-Martin_Z_Margulies_Sculpture_Park-Miami_Florida.html",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "subcategory": [
+        {
+          "key": "57",
+          "name": "Nature & Parks"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "reviews": [
+        null
+      ],
+      "email": "info@marguliessculpturepark.org",
+      "address_obj": {
+        "street1": "SW 107th Avenue & SW 16 St",
+        "street2": "",
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33199-0001"
+      },
+      "address": "SW 107th Avenue & SW 16 St, Miami, FL 33199-0001",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "70",
+          "name": "Parks"
+        }
+      ]
+    },
+    {
+      "location_id": "0",
+      "name": "Tucandela",
+      "latitude": "25.76789",
+      "longitude": "-80.37056",
+      "num_reviews": "14",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/4d/73/4d/getlstd-property-photo.jpg",
+            "height": "141"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/4d/73/4d/getlstd-property-photo.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/4d/73/4d/getlstd-property-photo.jpg",
+            "height": "720"
+          },
+          "large": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/4d/73/4d/getlstd-property-photo.jpg",
+            "height": "576"
+          },
+          "medium": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/4d/73/4d/getlstd-property-photo.jpg",
+            "height": "309"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2019-07-13T14:51:47-0400",
+        "caption": "getlstd_property_photo",
+        "id": "407728973",
+        "helpful_votes": "3",
+        "published_date": "2019-07-13T14:51:47-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "doubleclick_zone": "na.us.fl.miami",
+      "distance": "1.010541109821054",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "\"Tucandela Bar Kendall is the newest addition to Miami’s club scene. Although recently opened, Tucandela carries tradition and Latin flavor that’s been perfected for decades.",
+      "web_url": "https://www.tripadvisor.com/Attractions",
+      "write_review": "https://www.tripadvisor.com",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "rollup",
+        "name": "Rollup"
+      },
+      "subcategory": [
+        {
+          "key": "20",
+          "name": "Nightlife"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "address_obj": {
+        "street1": "10720 W Flagler St Ste 14",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33174-4406"
+      },
+      "address": "",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "105",
+          "name": "Karaoke Bars"
+        }
+      ],
+      "rollup_category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "rollup_contains_bookable": false,
+      "rollup_count": 4
+    },
+    {
+      "location_id": "0",
+      "name": "Karibe Dance Studio",
+      "latitude": "25.76852",
+      "longitude": "-80.36469",
+      "num_reviews": "275",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/4a/e5/f5/star-stable-miami.jpg",
+            "height": "141"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/4a/e5/f5/star-stable-miami.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "960",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/4a/e5/f5/star-stable-miami.jpg",
+            "height": "541"
+          },
+          "large": {
+            "width": "960",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/4a/e5/f5/star-stable-miami.jpg",
+            "height": "541"
+          },
+          "medium": {
+            "width": "600",
+            "url": "https://img.grouponcdn.com/metro_draft_service/2gXCqNdQPfU338a6to8pQt3VjXqB/2g-1280x853/v1/sc600x600.jpg",
+            "height": "600"
+          }
+        },
+        "is_blessed": false,
+        "uploaded_date": "2015-02-03T19:24:30-0500",
+        "caption": "Trick riding any one can do.",
+        "id": "122349045",
+        "helpful_votes": "1",
+        "published_date": "2015-02-03T19:24:30-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "doubleclick_zone": "na.us.fl.miami",
+      "distance": "1.2264636139034863",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "5.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "description": "We are teaching the world how to dance one step at a time. We have been in business for 18 years in Miami, FL focused on teaching our community , youth and adults of all ages how to dance Salsa , Bachata, Hip-Hop, Ballet and much more!",
+      "web_url": "https://www.tripadvisor.com/Attractions",
+      "write_review": "https://www.tripadvisor.com",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Miami",
+          "abbrv": null,
+          "location_id": "34438"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "category": {
+        "key": "rollup",
+        "name": "Rollup"
+      },
+      "subcategory": [
+        {
+          "key": "41",
+          "name": "Classes & Workshops"
+        }
+      ],
+      "parent_display_name": "Miami",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "address_obj": {
+        "street1": "10370 W Flagler St",
+        "street2": null,
+        "city": "Miami",
+        "state": "FL",
+        "country": "United States",
+        "postalcode": "33174-1746"
+      },
+      "address": "",
+      "is_candidate_for_contact_info_suppression": false,
+      "subtype": [
+        {
+          "key": "185",
+          "name": "Lessons & Workshops"
+        }
+      ],
+      "rollup_category": {
+        "key": "attraction",
+        "name": "Attraction"
+      },
+      "rollup_contains_bookable": true,
+      "booking": {
+        "provider": "Viator",
+        "url": "https://www.tripadvisor.com"
+      },
+      "offer_group": {
+        "lowest_price": "$55.99",
+        "has_see_all_url": true,
+        "is_eligible_for_ap_list": true
+      },
+      "rollup_count": 15
+    }
+  ],
+  "paging": {
+    "results": "11",
+    "total_results": "264"
+  }
+}

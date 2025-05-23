@@ -1,0 +1,2745 @@
+{
+  "data": [
+    {
+      "location_id": "8777717",
+      "name": "Hilton Garden Inn Miami Dolphin Mall",
+      "latitude": "25.789358",
+      "longitude": "-80.376236",
+      "num_reviews": "687",
+      "timezone": "America/New_York",
+      "location_string": "Sweetwater, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/64/05/23/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/64/05/23/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/64/05/23/exterior.jpg",
+            "height": "683"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/64/05/23/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/64/05/23/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-10-08T01:29:12-0400",
+        "caption": "Exterior",
+        "id": "644089123",
+        "helpful_votes": "0",
+        "published_date": "2022-10-08T01:29:12-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.151927471160889",
+      "ranking_geo": "Sweetwater",
+      "ranking_geo_id": "9832024",
+      "ranking_position": "1",
+      "ranking_denominator": "3",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 3 places to stay in Sweetwater",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.4279617613951943",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$159 - $230",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139924912&geo=8777717&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDbwhnOxKjdD037WzfWyUO2QJEzx2XPZAHCfC5LDef6Bvw&dated=true&bapid=2&cs=1c74227a02065f9531d5696c5051642dd",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Price Match Guarantee",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.8777717-a_offer.9830701-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139924912&geo=8777717&from=api&area=OID:9830701%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&ubucket=899441&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdxjuzfvK3MMmkMUSbxOfiluf0WvZXU3iw2gl304cdZiAg&cs=1c48c7d844bdcbf5a25b91ab255752e52"
+          }
+        ]
+      },
+      "listing_key": "3adbda44-d32f-4d25-b8f3-ad1367661ba0"
+    },
+    {
+      "location_id": "14084679",
+      "name": "DoubleTree by Hilton Miami Doral",
+      "latitude": "25.79083",
+      "longitude": "-80.36231",
+      "num_reviews": "261",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/de/f9/58/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/de/f9/58/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/de/f9/58/exterior.jpg",
+            "height": "576"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/de/f9/58/exterior.jpg",
+            "height": "309"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/de/f9/58/exterior.jpg",
+            "height": "141"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-09-16T01:29:13-0400",
+        "caption": "Exterior",
+        "id": "635369816",
+        "helpful_votes": "0",
+        "published_date": "2022-09-16T01:29:13-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.240931510925293",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "1",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.6774331010984627",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$163 - $225",
+      "hotel_class": "3.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139922413&geo=14084679&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDbz8XOllZvEWXsP4P89OdFHuZwbDwCPAGj-OlX3ScjcDS&dated=true&bapid=2&cs=1bebbf42feb6ecdbe4d71d548b8ddc607",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Price Match Guarantee",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.14084679-a_offer.9829504-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139922413&geo=14084679&from=api&area=OID:9829504%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&ubucket=899441&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdzTSBwPF_5_QzKH0n6uLb_QgrYrifG1CV6XVm33jqtPcA&cs=1297114b6b39d8c329dd73b28721f001d"
+          }
+        ]
+      },
+      "listing_key": "1e63ce2e-e790-423b-9855-47ff82d54906"
+    },
+    {
+      "location_id": "8777569",
+      "name": "Homewood Suites by Hilton Miami Dolphin Mall",
+      "latitude": "25.78942",
+      "longitude": "-80.375916",
+      "num_reviews": "516",
+      "timezone": "America/New_York",
+      "location_string": "Sweetwater, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/67/aa/05/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/67/aa/05/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/67/aa/05/exterior.jpg",
+            "height": "610"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/67/aa/05/exterior.jpg",
+            "height": "328"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/67/aa/05/exterior.jpg",
+            "height": "149"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-10-09T01:23:04-0400",
+        "caption": "Exterior",
+        "id": "644327941",
+        "helpful_votes": "0",
+        "published_date": "2022-10-09T01:23:04-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.264937400817871",
+      "ranking_geo": "Sweetwater",
+      "ranking_geo_id": "9832024",
+      "ranking_position": "2",
+      "ranking_denominator": "3",
+      "ranking_category": "hotel",
+      "ranking": "#2 Best Value of 3 places to stay in Sweetwater",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.4323434478952075",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$180 - $261",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139923268&geo=8777569&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDb-qiuMOzigICkypYaPPkwEPYNkADGCvk_ODAuB9x9F9z&dated=true&bapid=2&cs=1e2fab30614a1f34d117920acadd4cf1c",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Price Match Guarantee",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.8777569-a_offer.9830813-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139923268&geo=8777569&from=api&area=OID:9830813%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&ubucket=899441&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdzujPJIvZPVyOfoe9RbnJAWYqS_qB38X4KHVv59QjJgbA&cs=17491dc1633ee906599cd604b7e4ea403"
+          }
+        ]
+      },
+      "listing_key": "1add0a0d-1c1a-4cbf-a0a4-95b430a7857c"
+    },
+    {
+      "location_id": "87106",
+      "name": "Doral Inn & Suites, Miami Airport West",
+      "latitude": "25.783857",
+      "longitude": "-80.329",
+      "num_reviews": "630",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/e3/f5/78/doral-inn-suites-miami.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/e3/f5/78/doral-inn-suites-miami.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/e3/f5/78/doral-inn-suites-miami.jpg",
+            "height": "1500"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e3/f5/78/doral-inn-suites-miami.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/e3/f5/78/doral-inn-suites-miami.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2017-04-06T14:15:35-0400",
+        "caption": "",
+        "id": "249820536",
+        "helpful_votes": "2",
+        "published_date": "2017-04-06T14:15:35-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.6506731510162354",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "2",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#2 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.5923451367031145",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$120 - $187",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "8ee66ca4-c429-4bc9-8b75-66b0e047a237"
+    },
+    {
+      "location_id": "23154508",
+      "name": "Holiday Inn Express & Suites Doral - Miami, an IHG Hotel",
+      "latitude": "25.78955",
+      "longitude": "-80.3664",
+      "num_reviews": "29",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/56/e1/9b/hotel-exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/56/e1/9b/hotel-exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "3840",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/56/e1/9b/hotel-exterior.jpg",
+            "height": "2160"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/56/e1/9b/hotel-exterior.jpg",
+            "height": "309"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/56/e1/9b/hotel-exterior.jpg",
+            "height": "141"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-07-16T01:48:46-0400",
+        "caption": "Hotel Exterior",
+        "id": "492233115",
+        "helpful_votes": "0",
+        "published_date": "2021-07-16T01:48:46-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.398719310760498",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "3",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#3 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.519281398861845",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$166 - $224",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "f5432a91-ef8d-4fb3-ac60-d90a2eb91eff"
+    },
+    {
+      "location_id": "224875",
+      "name": "InterContinental at Doral Miami, an IHG Hotel",
+      "latitude": "25.79777",
+      "longitude": "-80.33591",
+      "num_reviews": "837",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/36/5c/7b/enjoy-our-relaxing-heated.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/36/5c/7b/enjoy-our-relaxing-heated.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4358",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/36/5c/7b/enjoy-our-relaxing-heated.jpg",
+            "height": "2906"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/36/5c/7b/enjoy-our-relaxing-heated.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/36/5c/7b/enjoy-our-relaxing-heated.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-09-30T02:06:30-0400",
+        "caption": "Enjoy our relaxing heated pool",
+        "id": "641096827",
+        "helpful_votes": "0",
+        "published_date": "2022-09-30T02:06:30-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "GreenLeader",
+          "year": "2023",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+          },
+          "categories": [
+            "Silver level"
+          ],
+          "display_name": "GreenLeader Silver"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.149697780609131",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "4",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#4 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.9264109230495254",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$186 - $261",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "5b96d747-c4bf-432a-a534-fc764d17a1aa"
+    },
+    {
+      "location_id": "34438",
+      "ad_position": "inline1",
+      "ad_size": "8X8",
+      "doubleclick_zone": "na.us.fl.miami",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "detail": "0",
+      "page_type": "hotels",
+      "mob_ptype": "app_hotels"
+    },
+    {
+      "location_id": "625330",
+      "name": "Best Western Plus Kendall Hotel & Suites",
+      "latitude": "25.688128",
+      "longitude": "-80.39474",
+      "num_reviews": "827",
+      "timezone": "America/New_York",
+      "location_string": "Kendall, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/e9/24/f0/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/e9/24/f0/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/e9/24/f0/exterior.jpg",
+            "height": "576"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e9/24/f0/exterior.jpg",
+            "height": "309"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/e9/24/f0/exterior.jpg",
+            "height": "141"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-28T01:21:11-0400",
+        "caption": "Exterior",
+        "id": "485041392",
+        "helpful_votes": "0",
+        "published_date": "2021-04-28T01:21:11-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "GreenLeader",
+          "year": "2023",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_bronze-0-5.jpg"
+          },
+          "categories": [
+            "Bronze level"
+          ],
+          "display_name": "GreenLeader Bronze"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.380791664123535",
+      "ranking_geo": "Kendall",
+      "ranking_geo_id": "34338",
+      "ranking_position": "1",
+      "ranking_denominator": "9",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 9 places to stay in Kendall",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.714959617642831",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$157 - $197",
+      "hotel_class": "3.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=BestWestern_BA&src=186909073&geo=625330&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=38630&bucket=937048&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZQoYX4G_2OiezhgC_gQI-tZzdHuyXJgYvHLEiXu6lFc8&dated=true&bapid=2&cs=1218f533292191c9425ce1afca28d25c4",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Click Here to Book Direct. Lowest Rate Guarantee!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.625330-a_offer.9676443-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=BestWestern_BA&src=186909073&geo=625330&from=api&area=OID:9676443%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38630&bucket=937048&ubucket=937048&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkVHIGSB8vf86Wq8vfltCB1-yhlv1UAdaA5EJK2ybRzDCD2iKeRE_X55LPhFvlXHNZw&cs=1986f42bbc329cabd3565d373414a429a"
+          }
+        ]
+      },
+      "listing_key": "9c1e7f5e-0262-4a13-b7e2-35c3eb509c99"
+    },
+    {
+      "location_id": "1122416",
+      "name": "Courtyard by Marriott Miami at Dolphin Mall",
+      "latitude": "25.784601",
+      "longitude": "-80.37764",
+      "num_reviews": "748",
+      "timezone": "America/New_York",
+      "location_string": "Sweetwater, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/8e/df/a3/aerial-view.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/8e/df/a3/aerial-view.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/8e/df/a3/aerial-view.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/8e/df/a3/aerial-view.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/8e/df/a3/aerial-view.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-10-16T17:28:17-0400",
+        "caption": "Aerial View",
+        "id": "646897571",
+        "helpful_votes": "2",
+        "published_date": "2022-10-16T17:28:17-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "GreenLeader",
+          "year": "2023",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_partner-0-5.jpg"
+          },
+          "categories": [
+            "GreenPartner"
+          ],
+          "display_name": "GreenLeader GreenPartner"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.485107898712158",
+      "ranking_geo": "Sweetwater",
+      "ranking_geo_id": "9832024",
+      "ranking_position": "3",
+      "ranking_denominator": "3",
+      "ranking_category": "hotel",
+      "ranking": "#3 Best Value of 3 places to stay in Sweetwater",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.100351554581421",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$172 - $232",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183961688&geo=1122416&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZfVh_zZUESPinr6NGAGOBgfo5bHlQRVH_Eran4fGq6ZQ&dated=true&bapid=1&cs=13d8b0774fc1c2f5df301b6e087a95ae1",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.1122416-a_offer.9590471-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183961688&geo=1122416&from=api&area=OID:9590471%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkUii0bJWsnA6OxdcnPv0beTeXACYLnW17gBI-CURMLrbZCioTjfk-egImpJ_yTCwLA&cs=1d42f6ba5c906ef5abef961f22633b16a"
+          }
+        ]
+      },
+      "listing_key": "dba8c196-abee-47bb-9620-71470a23867a"
+    },
+    {
+      "location_id": "143866",
+      "name": "Trump National Doral Miami",
+      "latitude": "25.814219",
+      "longitude": "-80.33956",
+      "num_reviews": "2979",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/49/b6/6d/resort-signature.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/49/b6/6d/resort-signature.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "10987",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/49/b6/6d/resort-signature.jpg",
+            "height": "5774"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/49/b6/6d/resort-signature.jpg",
+            "height": "289"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/49/b6/6d/resort-signature.jpg",
+            "height": "131"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-07-08T01:37:16-0400",
+        "caption": "Resort Signature",
+        "id": "491370093",
+        "helpful_votes": "0",
+        "published_date": "2021-07-08T01:37:16-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.56158447265625",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "5",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#5 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "resort",
+      "subcategory_type_label": "Resort",
+      "distance": "4.739545458485312",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$$$",
+      "price": "$281 - $456",
+      "hotel_class": "4.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "12c52c03-c79d-4841-a5f9-b3ccf4c265bf"
+    },
+    {
+      "location_id": "87067",
+      "name": "La Quinta Inn & Suites by Wyndham Miami Airport West",
+      "latitude": "25.799002",
+      "longitude": "-80.33858",
+      "num_reviews": "1031",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/e2/77/d5/pool.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/e2/77/d5/pool.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/e2/77/d5/pool.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/e2/77/d5/pool.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/e2/77/d5/pool.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-07-22T01:24:13-0400",
+        "caption": "Pool",
+        "id": "618821589",
+        "helpful_votes": "0",
+        "published_date": "2022-07-22T01:24:13-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.241773843765259",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "1",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.8891921294723875",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "3.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$114 - $190",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "b1612538-9fcc-46bf-a935-3b24fe501ab6"
+    },
+    {
+      "location_id": "1022069",
+      "name": "Nuvo Suites Hotel",
+      "latitude": "25.790033",
+      "longitude": "-80.36988",
+      "num_reviews": "877",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/f3/72/ba/nuvo-suites-hotel.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/f3/72/ba/nuvo-suites-hotel.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2500",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/f3/72/ba/nuvo-suites-hotel.jpg",
+            "height": "1667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/f3/72/ba/nuvo-suites-hotel.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/f3/72/ba/nuvo-suites-hotel.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-01-25T09:29:58-0500",
+        "caption": "",
+        "id": "569602746",
+        "helpful_votes": "0",
+        "published_date": "2022-01-25T09:29:58-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.890284299850464",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "6",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#6 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "2.5076297869544275",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$152 - $258",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=1022069&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkcJzOcIMM22jRbbHBe9bG6vnhmCXF_ECsEwEMR1J7Xgu8akmATjTg2ZsplfNNlfC4A&bapid=1&cs=139ffd16b281a1ee1aceecc4765aefd7c",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Free breakfast with your stay",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.1022069-a_offer.9139590-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=0&geo=1022069&from=api&area=OID:9139590%7COT:8&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkcJzOcIMM22jRbbHBe9bG6tdNvZHP6912IwObD8K3cDhiH1eeTaqX2KCBJEmyAqU3A&cs=11d3b7ad05f4e64dec20f54147d1a561d"
+          }
+        ]
+      },
+      "listing_key": "430d9460-26ad-43a2-aec5-1e1385bf0a53"
+    },
+    {
+      "location_id": "80264",
+      "name": "Best Western Plus Miami-Doral/Dolphin Mall",
+      "latitude": "25.809307",
+      "longitude": "-80.36776",
+      "num_reviews": "1476",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/02/42/35/outdoor-swimming-pool.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/02/42/35/outdoor-swimming-pool.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/02/42/35/outdoor-swimming-pool.jpg",
+            "height": "576"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/02/42/35/outdoor-swimming-pool.jpg",
+            "height": "309"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/02/42/35/outdoor-swimming-pool.jpg",
+            "height": "141"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-07-29T01:25:08-0400",
+        "caption": "Outdoor Swimming Pool",
+        "id": "620905013",
+        "helpful_votes": "0",
+        "published_date": "2022-07-29T01:25:08-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.6863672733306885",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "7",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#7 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.845560507925823",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$118 - $174",
+      "hotel_class": "3.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=BestWestern_BA&src=186909447&geo=80264&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=38630&bucket=937048&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZoVd1n47pqf8Z-IxBO38jVjULYyNqMVWmuQQCd6Ra7-Q&dated=true&bapid=2&cs=1e2c9b363568963388ea77e5225d86e63",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Click Here to Book Direct. Lowest Rate Guarantee!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.80264-a_offer.9676303-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=BestWestern_BA&src=186909447&geo=80264&from=api&area=OID:9676303%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38630&bucket=937048&ubucket=937048&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIke-Ek0IKNcSJ0OoLnnXtbACAKo7fZ5WwTQm_ArJZYvlKFq-bs3YvGpubitzgdJhtag&cs=128545ccc0ac956c5809abde00af49ae4"
+          }
+        ]
+      },
+      "listing_key": "afb1b828-d1dc-4105-97f8-6727987f5c55"
+    },
+    {
+      "location_id": "87120",
+      "name": "Comfort Suites Miami - Kendall",
+      "latitude": "25.733196",
+      "longitude": "-80.3827",
+      "num_reviews": "591",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/d4/49/b1/hotel-exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/d4/49/b1/hotel-exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/d4/49/b1/hotel-exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d4/49/b1/hotel-exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/d4/49/b1/hotel-exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-07T04:15:40-0400",
+        "caption": "Hotel exterior",
+        "id": "483674545",
+        "helpful_votes": "0",
+        "published_date": "2021-04-07T04:15:40-0400",
+        "user": null
+      },
+      "awards": [
+        {
+          "award_type": "GreenLeader",
+          "year": "2023",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_small-0-5.png",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/greenleader_large_silver-0-5.jpg"
+          },
+          "categories": [
+            "Silver level"
+          ],
+          "display_name": "GreenLeader Silver"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.291771411895752",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "2",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#2 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.508900839593237",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$163 - $203",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=235135131&geo=87120&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=984133&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=Rnc68ag1Z1kBEFxPUSV6GghfKXdUVHtE_HoRN-bTxvQdQx4u-Ti41-fVPabjGIyctTBJMWLqDYB4ZNe5zmZDbw9QB7jy6Z872CqWvvKrkSrw2gTOL69so8LL2qPLYIPi&dated=true&bapid=1&cs=1e54fc0a58aa27b95b6df14056a961135",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Stay twice and get a $50 gift card when you book direct at ChoiceHotels.com",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.87120-a_offer.9859860-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=235135131&geo=87120&from=api&area=OID:9859860%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=984133&ubucket=984133&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdwHYDDfDVpuZukpahCnfIGtSSca2cwBELXLypOuYFHhaQ&cs=1d9d4398088474e3f9c5f89cc0b69ccad"
+          }
+        ]
+      },
+      "listing_key": "858cfa7a-8092-4f77-84a3-ca272640cbd7"
+    },
+    {
+      "location_id": "4451262",
+      "name": "Cambria Hotel Miami Airport - Blue Lagoon",
+      "latitude": "25.776878",
+      "longitude": "-80.30743",
+      "num_reviews": "846",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/14/06/b1/hotel-exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/14/06/b1/hotel-exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/14/06/b1/hotel-exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/14/06/b1/hotel-exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/14/06/b1/hotel-exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-06-03T09:23:49-0400",
+        "caption": "Hotel exterior",
+        "id": "487851697",
+        "helpful_votes": "0",
+        "published_date": "2021-06-03T09:23:49-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.9484169483184814",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "3",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#3 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.57197475077547",
+      "distance_string": null,
+      "bearing": "east",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$140 - $200",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=236221397&geo=4451262&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=984133&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=Rnc68ag1Z1kBEFxPUSV6GghfKXdUVHtE_HoRN-bTxvQdQx4u-Ti41-fVPabjGIyctTBJMWLqDYB4ZNe5zmZDb8hDV42FQWvtUZ1Qh7ZIlVVho4Y0hi1L8_DG7o5Mjp51&dated=true&bapid=1&cs=12584fb03d79e0cd74da672aec5aeb4de",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Book Direct For Lowest Price!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.4451262-a_offer.9343462-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=236221397&geo=4451262&from=api&area=OID:9343462%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=984133&ubucket=984133&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdwY76-QHn-OE7RzoaUdi69vvKbnGD21L3mS0PEMdugRWw&cs=1fb546744aa3e8ca95e35fae2f8a69937"
+          }
+        ]
+      },
+      "listing_key": "859e512a-2349-445d-9c35-785d9b25aa3b"
+    },
+    {
+      "location_id": "34438",
+      "ad_position": "inline2",
+      "ad_size": "8X8",
+      "doubleclick_zone": "na.us.fl.miami",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "detail": "0",
+      "page_type": "hotels",
+      "mob_ptype": "app_hotels"
+    },
+    {
+      "location_id": "85201",
+      "name": "DoubleTree by Hilton Hotel Miami Airport & Convention Center",
+      "latitude": "25.778028",
+      "longitude": "-80.310646",
+      "num_reviews": "2774",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/93/3a/fb/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/93/3a/fb/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/93/3a/fb/exterior.jpg",
+            "height": "643"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/93/3a/fb/exterior.jpg",
+            "height": "345"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/93/3a/fb/exterior.jpg",
+            "height": "157"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-10-17T17:01:30-0400",
+        "caption": "Exterior",
+        "id": "647183099",
+        "helpful_votes": "0",
+        "published_date": "2022-10-17T17:01:30-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.422480821609497",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "4",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#4 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.413064476420648",
+      "distance_string": null,
+      "bearing": "east",
+      "rating": "3.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$133 - $227",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139927208&geo=85201&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDbyKhzT9_CX70vTeIaV8NLiUYR-WHwi1khwix1Yl27USd&dated=true&bapid=2&cs=1f2b1444aa24963a5f8d4c74065d8d649",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Hilton Honors Discount Offer",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.85201-a_offer.9754256-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139927208&geo=85201&from=api&area=OID:9754256%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&ubucket=899441&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdyExb7PTX6YSzoGbx6WYFtw9sg_Ca5xpuPBB0mWIarxeQ&cs=1f66663fb6e61a92f5e0b0f636982449d"
+          }
+        ]
+      },
+      "listing_key": "dc42d5d9-f942-47e6-a3f1-1d45235c393d"
+    },
+    {
+      "location_id": "1385888",
+      "name": "Holiday Inn Miami-Doral Area, an IHG Hotel",
+      "latitude": "25.803926",
+      "longitude": "-80.33602",
+      "num_reviews": "219",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/95/4d/1c/free-wifi-and-mia-airport.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/95/4d/1c/free-wifi-and-mia-airport.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4650",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/95/4d/1c/free-wifi-and-mia-airport.jpg",
+            "height": "3094"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/95/4d/1c/free-wifi-and-mia-airport.jpg",
+            "height": "366"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/95/4d/1c/free-wifi-and-mia-airport.jpg",
+            "height": "166"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-12-11T02:27:51-0500",
+        "caption": "Free Wifi and MIA airport shuttle",
+        "id": "563432732",
+        "helpful_votes": "0",
+        "published_date": "2021-12-11T02:27:51-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.28230881690979",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "8",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#8 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.257396029712142",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "3.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$134 - $203",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "2c796e0c-0cba-4284-a3e7-21a82d26e15e"
+    },
+    {
+      "location_id": "87072",
+      "name": "Holiday Inn Express Miami Airport Doral Area, an IHG Hotel",
+      "latitude": "25.809406",
+      "longitude": "-80.33368",
+      "num_reviews": "733",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/91/b3/ae/fresh-baked-cookes-and.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/91/b3/ae/fresh-baked-cookes-and.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "5994",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/91/b3/ae/fresh-baked-cookes-and.jpg",
+            "height": "4000"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/91/b3/ae/fresh-baked-cookes-and.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/91/b3/ae/fresh-baked-cookes-and.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-12-10T03:12:25-0500",
+        "caption": "Fresh baked cookes and popcorn daily",
+        "id": "563196846",
+        "helpful_votes": "0",
+        "published_date": "2021-12-10T03:12:25-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.6177186965942383",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "5",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#5 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.650608783895883",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "3.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$146 - $214",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "38ebf93e-2200-406a-88ab-cc568ab75280"
+    },
+    {
+      "location_id": "15337061",
+      "name": "AC Hotel Miami Airport West / Doral",
+      "latitude": "25.81038",
+      "longitude": "-80.32801",
+      "num_reviews": "243",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/9d/e1/bd/ac-lounge-seating.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/9d/e1/bd/ac-lounge-seating.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/9d/e1/bd/ac-lounge-seating.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/9d/e1/bd/ac-lounge-seating.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/9d/e1/bd/ac-lounge-seating.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-12-15T08:22:54-0500",
+        "caption": "AC Lounge - Seating",
+        "id": "563995069",
+        "helpful_votes": "0",
+        "published_date": "2021-12-15T08:22:54-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.544641971588135",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "9",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#9 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.914273186651828",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$202 - $270",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183958697&geo=15337061&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZRet6W04ERiCXbeU2dPgYq1LPNcekhd6XT3YXqRm_Byg&dated=true&bapid=1&cs=142425378cd2125cab9f26d92d77d4315",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.15337061-a_offer.9595494-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183958697&geo=15337061&from=api&area=OID:9595494%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIke7rudibP5eT1WEfFCBNEdHALpYBkg3MpwKbKdV6YRanrnlCK3zzA1xX50vTBYLOVQ&cs=1593f7a854f0a8670ddb86ac06833011f"
+          }
+        ]
+      },
+      "listing_key": "a21b4a2d-21c2-4b1e-ba68-b4f6f1b507a6"
+    },
+    {
+      "location_id": "87118",
+      "name": "The Palms Inn & Suites",
+      "latitude": "25.689829",
+      "longitude": "-80.38328",
+      "num_reviews": "882",
+      "timezone": "America/New_York",
+      "location_string": "Kendall, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/de/ca/50/hotel-exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/de/ca/50/hotel-exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/de/ca/50/hotel-exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/de/ca/50/hotel-exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/de/ca/50/hotel-exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-17T01:24:49-0400",
+        "caption": "Hotel Exterior",
+        "id": "484362832",
+        "helpful_votes": "0",
+        "published_date": "2021-04-17T01:24:49-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.9511232376098633",
+      "ranking_geo": "Kendall",
+      "ranking_geo_id": "34338",
+      "ranking_position": "2",
+      "ranking_denominator": "9",
+      "ranking_category": "hotel",
+      "ranking": "#2 Best Value of 9 places to stay in Kendall",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.4771597258901545",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$130 - $191",
+      "hotel_class": "2.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "b2ddd22d-2e31-47ef-ac1e-8acdbf98dffc"
+    },
+    {
+      "location_id": "84996",
+      "name": "Holiday Inn Express & Suites Kendall East - Miami, an IHG Hotel",
+      "latitude": "25.685158",
+      "longitude": "-80.382866",
+      "num_reviews": "200",
+      "timezone": "America/New_York",
+      "location_string": "Kendall, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/5f/ec/40/hotel-exterior-dusk.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/5f/ec/40/hotel-exterior-dusk.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4256",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/5f/ec/40/hotel-exterior-dusk.jpg",
+            "height": "2848"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/5f/ec/40/hotel-exterior-dusk.jpg",
+            "height": "368"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/5f/ec/40/hotel-exterior-dusk.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-08-24T04:52:05-0400",
+        "caption": "Hotel Exterior - Dusk",
+        "id": "627043392",
+        "helpful_votes": "0",
+        "published_date": "2022-08-24T04:52:05-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.3629372119903564",
+      "ranking_geo": "Kendall",
+      "ranking_geo_id": "34338",
+      "ranking_position": "3",
+      "ranking_denominator": "9",
+      "ranking_category": "hotel",
+      "ranking": "#3 Best Value of 9 places to stay in Kendall",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.796644139378043",
+      "distance_string": null,
+      "bearing": "south",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$141 - $184",
+      "hotel_class": "2.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "37140101-459a-4c84-bc97-876c17d00515"
+    },
+    {
+      "location_id": "12177483",
+      "name": "Wingate by Wyndham Miami Airport",
+      "latitude": "25.808249",
+      "longitude": "-80.32301",
+      "num_reviews": "507",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/d9/90/43/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/d9/90/43/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/d9/90/43/exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d9/90/43/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/d9/90/43/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-12T05:47:31-0400",
+        "caption": "Exterior",
+        "id": "484020291",
+        "helpful_votes": "0",
+        "published_date": "2021-04-12T05:47:31-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.9061672687530518",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "10",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#10 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.9999428359854114",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$151 - $221",
+      "hotel_class": "2.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "c9d359c5-f1f4-4674-a353-e7c2dd1eb3b8"
+    },
+    {
+      "location_id": "85007",
+      "name": "Days Inn By Wyndham Miami International Airport",
+      "latitude": "25.780746",
+      "longitude": "-80.31386",
+      "num_reviews": "1477",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/5e/90/b4/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/5e/90/b4/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/90/b4/exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/5e/90/b4/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/5e/90/b4/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-11-11T01:48:01-0500",
+        "caption": "Exterior",
+        "id": "559845556",
+        "helpful_votes": "0",
+        "published_date": "2021-11-11T01:48:01-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "2.399340867996216",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "6",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#6 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "motel",
+      "subcategory_type_label": "Motel",
+      "distance": "4.304603870796207",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "2.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$109 - $163",
+      "hotel_class": "2.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "04051508-fff4-4f82-8fd5-4c8caeb9bbbd"
+    },
+    {
+      "location_id": "34438",
+      "ad_position": "inline3",
+      "ad_size": "8X8",
+      "doubleclick_zone": "na.us.fl.miami",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "state",
+              "name": "State"
+            }
+          ],
+          "name": "Florida",
+          "abbrv": "FL",
+          "location_id": "28930"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "United States",
+          "abbrv": null,
+          "location_id": "191"
+        }
+      ],
+      "detail": "0",
+      "page_type": "hotels",
+      "mob_ptype": "app_hotels"
+    },
+    {
+      "location_id": "3738834",
+      "name": "Aloft Miami Doral",
+      "latitude": "25.803375",
+      "longitude": "-80.36864",
+      "num_reviews": "556",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/15/98/38/aloft-miami-doral.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/15/98/38/aloft-miami-doral.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/15/98/38/aloft-miami-doral.jpg",
+            "height": "667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/15/98/38/aloft-miami-doral.jpg",
+            "height": "366"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/15/98/38/aloft-miami-doral.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2014-06-26T14:51:54-0400",
+        "caption": "Hotel Exterior",
+        "id": "102078520",
+        "helpful_votes": "0",
+        "published_date": "2014-06-26T14:51:54-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.885497570037842",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "11",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#11 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.4316449101907884",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$141 - $206",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183965497&geo=3738834&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZV8OlPB1v7QUWORJOD52pEgxYORjCnbkc2kAxCA887UU&dated=true&bapid=1&cs=1e758cc66cb121b4578ffb3e76db3594f",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.3738834-a_offer.9596551-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183965497&geo=3738834&from=api&area=OID:9596551%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkUMT-AynQsCFKmDfe8OevZJp7HT7RULwM4R0fVrboPhXKHW9iRBYh1_5mnnSU2hskw&cs=1cd9ce3acd4127fefc8cdee310fee9155"
+          }
+        ]
+      },
+      "listing_key": "6a6253f9-0c75-46e8-a236-2245bf80f24a"
+    },
+    {
+      "location_id": "223971",
+      "name": "Marriott's Villas at Doral, A Marriott Vacation Club Resort",
+      "latitude": "25.812134",
+      "longitude": "-80.33655",
+      "num_reviews": "859",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/89/c9/6e/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/89/c9/6e/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/89/c9/6e/exterior.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/89/c9/6e/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/89/c9/6e/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-12-22T14:42:25-0500",
+        "caption": "Exterior",
+        "id": "663341422",
+        "helpful_votes": "0",
+        "published_date": "2022-12-22T14:42:25-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.194093704223633",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "7",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#7 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.710023034006299",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$202 - $394",
+      "hotel_class": "3.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183963085&geo=223971&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZY0sSUBjZrksMx1vp0Ym5wFIG-lQAhpVu_Z-Iwrbnm6s&dated=true&bapid=1&cs=1cbf8f9c1498df3de87db2e131e64fbb3",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.223971-a_offer.9592452-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183963085&geo=223971&from=api&area=OID:9592452%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkcJzOcIMM22jRbbHBe9bG6vGrJMVbWs_ntOw4yL1doqouH5lRvZpmR5pZQ0FfAGpfw&cs=11f5caca34ddd08179d36267a42232c48"
+          }
+        ]
+      },
+      "listing_key": "2b4d9614-bbd6-4e69-9b98-6535d3f6f87a"
+    },
+    {
+      "location_id": "7248265",
+      "name": "Element Miami Doral",
+      "latitude": "25.80406",
+      "longitude": "-80.36886",
+      "num_reviews": "404",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/a1/e0/9c/element-miami-doral.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/a1/e0/9c/element-miami-doral.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/a1/e0/9c/element-miami-doral.jpg",
+            "height": "1333"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/a1/e0/9c/element-miami-doral.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/a1/e0/9c/element-miami-doral.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-03-22T10:53:23-0400",
+        "caption": "",
+        "id": "581034140",
+        "helpful_votes": "0",
+        "published_date": "2022-03-22T10:53:23-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.314525604248047",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "12",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#12 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.4766575728993536",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$$",
+      "price": "$172 - $238",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183964057&geo=7248265&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZKXLNkjJaVeFsEFHdMmWx6tO4zXOKr8nHBXJwWfi4-LE&dated=true&bapid=1&cs=10d8d35adc1ddcb437ed934d18b53ddd1",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.7248265-a_offer.9596023-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183964057&geo=7248265&from=api&area=OID:9596023%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkblq58gMPsQKIIY_vM15mkpMyFypn2Mg_DhVfXwF1QTty9UL1F6QlsG_S1-Ax4PoEQ&cs=10acab772e979533269fdef2f649fc7fe"
+          }
+        ]
+      },
+      "listing_key": "e642f09f-82bd-4579-b73f-c48a4b010d4a"
+    },
+    {
+      "location_id": "12285436",
+      "name": "SpringHill Suites Miami Doral",
+      "latitude": "25.809942",
+      "longitude": "-80.36796",
+      "num_reviews": "109",
+      "timezone": "America/New_York",
+      "location_string": "Miami, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/9d/f8/42/outdoor-pool.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/9d/f8/42/outdoor-pool.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/9d/f8/42/outdoor-pool.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/9d/f8/42/outdoor-pool.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/9d/f8/42/outdoor-pool.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-12-15T08:27:22-0500",
+        "caption": "Outdoor Pool",
+        "id": "564000834",
+        "helpful_votes": "0",
+        "published_date": "2021-12-15T08:27:22-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.3865818977355957",
+      "ranking_geo": "Miami",
+      "ranking_geo_id": "34438",
+      "ranking_position": "8",
+      "ranking_denominator": "352",
+      "ranking_category": "hotel",
+      "ranking": "#8 Best Value of 352 places to stay in Miami",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.8873791755828737",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$157 - $213",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183964021&geo=12285436&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ-EOQu-sWBSi5cz_k7dBcwmPFqdXj3RLv_6neyT1aSbk&dated=true&bapid=1&cs=13e67dc5a8e0a897d22370995f8544864",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.12285436-a_offer.9595341-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183964021&geo=12285436&from=api&area=OID:9595341%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkbc0Q_XSFRjTyxM4TpUQz6PpJLLQqKK4MQffCfZEnOH_tmYl1yCbOcwEKUTL7jC8mw&cs=132fda020fca9148852eb0f0f025df493"
+          }
+        ]
+      },
+      "listing_key": "4648dc1e-a5f4-40cf-9830-12d696d94c3b"
+    },
+    {
+      "location_id": "217399",
+      "name": "Extended Stay America - Miami - Airport - Doral",
+      "latitude": "25.804901",
+      "longitude": "-80.33851",
+      "num_reviews": "225",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/e6/5d/e1/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/e6/5d/e1/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/e6/5d/e1/exterior.jpg",
+            "height": "682"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e6/5d/e1/exterior.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/e6/5d/e1/exterior.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-04-25T01:19:57-0400",
+        "caption": "Exterior",
+        "id": "484859361",
+        "helpful_votes": "0",
+        "published_date": "2021-04-25T01:19:57-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.2508063316345215",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "13",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#13 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.223521985962051",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "3.5",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$130 - $173",
+      "hotel_class": "2.5",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=ExtendedStay_BA&src=203354222&geo=217399&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=41383&bucket=948174&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=2afBke2oyOgyG0EnpWzKOOgjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZLs5OtkKCXH7Z-IE-pXNGDpenL3qZ210KqH-vz3z-Jew&dated=true&bapid=1&cs=1733f141218144fdbf4a3c641f1a9db76",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "CLICK HERE TO SAVE UP TO 45% BY BOOKING DIRECT!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.217399-a_offer.9867226-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=ExtendedStay_BA&src=203354222&geo=217399&from=api&area=OID:9867226%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=41383&bucket=948174&ubucket=948174&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkWqSF3RhZLgvqZtGADd4D--GJHE3ZiKoGIBvlDtnypaP8Ji3drCGlBXXoRzedyn7jQ&cs=129a3ac471aebe90d710400107b5677f3"
+          }
+        ]
+      },
+      "listing_key": "fa6c5525-151c-4021-a4fd-4be89490f90c"
+    },
+    {
+      "location_id": "195792",
+      "name": "Hampton Inn & Suites Miami-Doral/Dolphin Mall",
+      "latitude": "25.811113",
+      "longitude": "-80.384834",
+      "num_reviews": "1317",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/a7/a9/08/exterior.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/a7/a9/08/exterior.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1023",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/a7/a9/08/exterior.jpg",
+            "height": "919"
+          },
+          "large": {
+            "width": "501",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/a7/a9/08/exterior.jpg",
+            "height": "450"
+          },
+          "medium": {
+            "width": "228",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/a7/a9/08/exterior.jpg",
+            "height": "205"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2023-03-27T16:53:27-0400",
+        "caption": "Exterior",
+        "id": "682076424",
+        "helpful_votes": "0",
+        "published_date": "2023-03-27T16:53:27-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "4.148848533630371",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "14",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#14 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.9677836105357787",
+      "distance_string": null,
+      "bearing": "north",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$154 - $195",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139923496&geo=195792&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=UesAOQ-3U6srp7y5lRpA4fY37RBGMg15qEprW9htWNg6QcaDIdoeaStH9X1x6fcbtTBJMWLqDYB4ZNe5zmZDb4BLfvZfVR_vodOUY2bXVZ_k9WgYzJFojIuD9GBr6kW5&dated=true&bapid=2&cs=10529a34751c678d391675fdc88863f7c",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Price Match Guarantee",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.195792-a_offer.9833045-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=TABAIndependentHotels&src=139923496&geo=195792&from=api&area=OID:9833045%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=899441&ubucket=899441&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdy-iJYkz13EFt-wLlrQP5LWeEE3z3Oq4k59mHwPy9_ZjA&cs=17b1ac4340dbfacb8d5e7c795a6c3e7ed"
+          }
+        ]
+      },
+      "listing_key": "6e724844-c520-4814-acd4-21f814988f82"
+    },
+    {
+      "location_id": "87071",
+      "name": "Sonesta Simply Suites Miami Airport Doral",
+      "latitude": "25.800388",
+      "longitude": "-80.34056",
+      "num_reviews": "479",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/7e/9e/17/hotel-exterior-night.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/7e/9e/17/hotel-exterior-night.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/7e/9e/17/hotel-exterior-night.jpg",
+            "height": "576"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/7e/9e/17/hotel-exterior-night.jpg",
+            "height": "309"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/7e/9e/17/hotel-exterior-night.jpg",
+            "height": "141"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2022-07-07T01:16:40-0400",
+        "caption": "Hotel Exterior Night",
+        "id": "612277783",
+        "helpful_votes": "0",
+        "published_date": "2022-07-07T01:16:40-0400",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.7533435821533203",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "15",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#15 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "3.893833401269314",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$127 - $192",
+      "hotel_class": "2.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Sonesta_BA&src=203353464&geo=87071&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=41376&bucket=948158&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=2afBke2oyOgyG0EnpWzKOOgjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZdzZ3HTCp3b5Z5HAuxP-fJk8I72c8eBVRLQocW-43_oE&dated=true&bapid=2&cs=1dfaa21b5b042833f2a9a99d8fa89fc9f",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Spring Savings up to 30%",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.87071-a_offer.9854811-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Sonesta_BA&src=203353464&geo=87071&from=api&area=OID:9854811%7COT:2&slot=1&matchID=1&oos=0&cnt=1&silo=41376&bucket=948158&ubucket=948158&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkZ5cNVL01g5L5-ISFo0cs--M1OVBVXfwmhiX0UEC_tQ9DIr7xYLHJ5DAG3tLJrIJdA&cs=156db41de7f69cec0c9d09acebd28b95e"
+          }
+        ]
+      },
+      "listing_key": "d481eb88-7965-4e4d-8433-26e7bff80bcc"
+    },
+    {
+      "location_id": "15530646",
+      "name": "Fairfield Inn & Suites Miami Airport West/Doral",
+      "latitude": "25.811052",
+      "longitude": "-80.32802",
+      "num_reviews": "81",
+      "timezone": "America/New_York",
+      "location_string": "Doral, Florida",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/9d/da/b8/lobby.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/9d/da/b8/lobby.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "4000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/9d/da/b8/lobby.jpg",
+            "height": "2667"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/9d/da/b8/lobby.jpg",
+            "height": "367"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/9d/da/b8/lobby.jpg",
+            "height": "167"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2021-12-15T08:21:39-0500",
+        "caption": "Lobby",
+        "id": "563993272",
+        "helpful_votes": "0",
+        "published_date": "2021-12-15T08:21:39-0500",
+        "user": null
+      },
+      "awards": [],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Miami Places to Stay",
+      "raw_ranking": "3.2347731590270996",
+      "ranking_geo": "Doral",
+      "ranking_geo_id": "680222",
+      "ranking_position": "16",
+      "ranking_denominator": "32",
+      "ranking_category": "hotel",
+      "ranking": "#16 Best Value of 32 places to stay in Doral",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "4.950746630613473",
+      "distance_string": null,
+      "bearing": "northeast",
+      "rating": "3.5",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$$",
+      "price": "$162 - $230",
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": [
+          {
+            "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183964599&geo=15530646&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261660611&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZrtr8uHpPraPGRsvnLqNl9yObtQjD6vv01uIaR8JGIBg&dated=true&bapid=1&cs=1113606a32b43cfefe3447417648de295",
+            "label": "Hotel website",
+            "type": "url"
+          }
+        ]
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": [
+          {
+            "headline": "Unlock Member Rates!",
+            "url": "https://www.tripadvisor.com/ShowSpecialOffer-a_d.15530646-a_offer.9596170-a_trafficSource.ba",
+            "offerless_click_tracking_url": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183964599&geo=15530646&from=api&area=OID:9596170%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261660611&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIke7rudibP5eT1WEfFCBNEdEusdRTXM_Go2dqs1MgPoI-cGT4yoZGIKt61qyXdZDXpQ&cs=1f7d6986b122e7c23942404c7e62fb24e"
+          }
+        ]
+      },
+      "listing_key": "68a7e839-8a4e-489d-9416-4b0a5d06ca18"
+    }
+  ],
+  "status": {
+    "unfiltered_total_size": "63",
+    "commerce_country_iso_code": "US",
+    "autobroadened": true,
+    "progress": "100",
+    "auction_key": "c5424776f67642e3b8f4633291b03ee5",
+    "primary_geo": "34438",
+    "pricing": "base",
+    "doubleClickZone": "na.us.fl.miami"
+  },
+  "paging": {
+    "results": "30",
+    "total_results": "63"
+  }
+}
